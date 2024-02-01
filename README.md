@@ -6,20 +6,24 @@ The application has a user friendly interface to navigate and listen to his/her 
 
 The homepage features the top 100 voted radio stations worldwide. Above that, there is a search functionality that enables you to search radio station by countries.
 
-For listening to the station, you simply has to tap on any station. And the stream will follow!
+For listening to the station, you simply have to tap on any station. And the stream will follow!
 
-You will see the channel information as well as the audio controllers in the sticky navigation bar. You can pause, mute and adjust the volume according to your needs.
+User will listen to live radio stations in real time. This application provides uninterrupted audio playback with minimal buffering.
+
+You will see the channel information as well as the user friendly audio controllers in the sticky navigation bar. You can pause, mute and adjust the volume according to your needs.
 
 And yes, you can navigate while listening! 
 
 Even if you switch to another tab or minimize the browser altogether, the stream will continue ! But don't stay away for long!!
 
-There is a toggle button at the top that enables you to switch between light and dark mode! 
+There is a toggle button at the top that enables you to switch between light and dark mode! Use your favorite one!
+
+The web application is fully responsive. It allows users to listen to radio stations seamlessly from desktops, tablets and mobile phones.
 
 
 Sometimes there is a delay to stream (3-5 seconds avg) after tapping the station. It can be improved. Also search by language & by name can be implemented in future. 
 
-
+Feel free to suggest your ideas. Enjoy the project !
 
 // Instructions for users
 
